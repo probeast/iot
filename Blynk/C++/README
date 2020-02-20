@@ -1,0 +1,13 @@
+Step -1
+Create New Account in Blynk app
+Account is needed to save your projects and provide access from any smartphone you have.
+☝️Use a valid email address as it will be later used often
+Step -2
+Create New Project
+• Create New Project and choose the hardware you use.
+• If you can't find the hardware you use – select Generic Board
+• Choose what type of connectivity you use?
+• Choose Dark or Light UI interface
+Step-3
+Get Auth Token
+Check your inbox to see if you get an email from Blynk with the Auth Token. You will need it later
